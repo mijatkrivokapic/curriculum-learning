@@ -13,3 +13,4 @@ Projekat ispituje da li teorija prostora znanja (KST) može da usmerava curricul
 | 21.10.2026. - 28.10.2026.| Analizirana specifikacija i projekat pozicioniran na preseku KST, psihometrije u ML i curriculum learninga. Napravljena početna tabela literature. Izabran Tatsuokin dataset oduzimanja razlomaka (536 učenika, 20 zadataka, Q-matica sa 8 veština).|
 | 28.10.2026. - 4.11.2026. |Odabran format ulaza u neuronske mreže - svaki razlomak se predstavlja vektorom 3 broja (celi deo, brojilac i imenilac).|
 | 4.11.2026. - 11.11.2026. |Implementiran generator pitanja|
+| 11.11.2026. - 18.11.2026. |Implementirane inicijalne neuronske mreže i odrađen eksperiment treniranja|
